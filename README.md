@@ -2,9 +2,9 @@
 
 ## /notes (POST)
 
-## /notes (GET)
+## /notes (GET ALL)
 
-# /notes/:noteId (POST)
+# /notes/:noteId (GET)
 
 ## /notes/:noteId (PUT)
 
