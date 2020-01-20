@@ -13,7 +13,7 @@ npm install to install dependencies
 
 * ensure you have mongo and mongoose installed
 * start the mongo server
-* issue ( node server.js)
+* execute ( node server.js)
 
 
 
