@@ -1,13 +1,35 @@
-# Here are the enndpoint
+## elctronic jotter
 
-## /notes (POST)
+simple CRUD operation in NODE
 
-## /notes (GET ALL)
 
-# /notes/:noteId (GET)
+```bash
+git clone the project
+```
 
-## /notes/:noteId (PUT)
+```bash
+npm install to install dependencies
+```
 
-## /notes/:noteId (DELETE)
+* ensure you have mongo and mongoose installed
+* start the mongo server
+* issue ( node server.js)
 
-### N.B do npm install and also ensured you have mongo DB installed or better still you can you Mongo DB ATLAS
+
+
+####  Here are the enndpoint
+
+```
+
+
+ /notes (POST)
+
+/notes (GET ALL)
+
+/notes/:noteId (GET)
+
+/notes/:noteId (PUT)
+
+/notes/:noteId (DELETE)
+
+```
